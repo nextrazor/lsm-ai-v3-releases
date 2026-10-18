@@ -13,4 +13,4 @@ macOS installers are distributed separately and do not use this update feed.
 This repository contains distribution files only. Corporate documents, credentials,
 and application source code are not published here.
 
-There are no published installers until the first release is verified and published.
+The first Windows release, 0.2.0, is published. Installation and updating from a disposable baseline were verified on Windows in GitHub Actions. The public update feed and installer checksums were verified without authentication.
